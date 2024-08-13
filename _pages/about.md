@@ -12,10 +12,10 @@ I am pursuing my Ph.D. degree in [Computer Science](https://www.unr.edu/cse) at 
 
 Research Interests
 ------
-* **Optimization** 
-* **Motion Planning:**  
-* **Nonlinear Robust Control:** 
-* **Inspection robots:** 
+* **Optimization:** Developing and applying advanced optimization techniques to enhance the performance and efficiency of autonomous systems in dynamic and uncertain environments.
+* **Motion Planning:** Designing computationally efficient planning algorithms that enable robots to navigate and avoid obstacles in dynamic environments, ensuring safety and reliability.
+* **Nonlinear Robust Control:** Focusing on the stability and robustness of control systems, particularly in nonlinear environments, to maintain performance despite uncertainties and disturbances.
+* **Inspection robots:** Innovating in the design and implementation of inspection robots, with a particular emphasis on the Cube-drone, to perform complex inspection tasks in challenging environments.  
 
 Awards
 ------
