@@ -11,9 +11,9 @@ title                    : "Van Chung's Homepage"
 title_separator          : "-"
 name                     : &name "Van Chung Nguyen"
 description              : &description "personal description"
-url                      : https://VanChung-Nguyen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://VanChung-Nguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "VanChung-Nguyen/vanchung.com"
+repository               : "VanChung-Nguyen/VanChung-Nguyen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
