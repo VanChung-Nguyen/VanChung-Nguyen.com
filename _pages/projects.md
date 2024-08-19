@@ -13,6 +13,9 @@ Cube-drone
 Unmanned aerial vehicle
 ------
 
+
+Undergraduate projects
+------
 Since 2021, I've been a member of the MEG team at HUST under the guidance of Assoc. Prof. Nguyen Tung Lam. Additionally, I've collaborated on several projects with Assoc. Prof. Dao Phuong Nam focuses on motion planning and optimal control for various nonlinear systems.
 
 Overhead crane
