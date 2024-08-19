@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Activities"
+title: "Activities Highlights"
 permalink: /activities/
 author_profile: true
 ---
-Activity Highlights
 ------
 * <span style="font-size: 20px;">11/2023: *Attending at the VCCA conference.* **Haiphong, Vietnam**.</span>  
 
