@@ -9,5 +9,8 @@ main:
   - title: "CV"
     url: /files/CV_Van_Chung_Nguyen.pdf
     
-  - title: "Robotic Software"
+  - title: "Software"
     url: https://github.com/VanChung-Nguyen
+
+    - title: "Activities"
+     url: /activities/
