@@ -17,3 +17,11 @@ Research Interests
 * **Nonlinear Robust Control:** Focusing on the stability and robustness of control systems, particularly in nonlinear environments, to maintain performance despite uncertainties and disturbances.
 * **Inspection robots:** Innovating in the design and implementation of inspection robots, with a particular emphasis on the Cube-drone, to perform complex inspection tasks in challenging environments.  
 
+Awards
+------
+
+* **Future:** Coming soon ...
+* **Research Assistant at UNR (2024):**  Pursuing PhD in Computer Science at UNR, under the supervision of [Professor Hung (Jim) La](https://scholar.google.com/citations?user=uG-wAt0AAAAJ&hl=en).
+* **Best undergraduate graduation thesis award (2023):** Awarded by School of Electrical & Electronic Engineering, HUST.
+* **Honda Award for Young Engineer and Scientist (2022):** Received from the Honda Foundation for outstanding young engineers and scientists in Vietnam.
+* **Bronze Medal at the Math Competition of Coastal and Northern Delta in Vietnam (2019):** Math competition for specialized high schools in northern Vietnam.
