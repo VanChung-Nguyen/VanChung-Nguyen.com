@@ -5,6 +5,10 @@ permalink: /activities/
 author_profile: true
 ---
 ------
+* <span style="font-size: 20px;">05/2023: *The team attending and presenting at the ICRA2023 conference.* **London, UK**.</span>  
+  <img src="/images/london_poster.jpg" alt="Image 1" style="display:inline-block; margin-right:5px; height:250px; max-height: 100%;" />
+  <img src="/images/london_bigben.png" alt="Image 2" style="display:inline-block; margin-right:5px; height:250px; max-height: 100%;" />
+
 * <span style="font-size: 20px;">5/2024: *Attending at the VCCA conference.* **Haiphong, Vietnam**.</span>  
 
   <img src="/images/vcca2024.jpg" style="display:inline-block; margin-right:5px; height:350px; max-height: 100%;" />
@@ -13,7 +17,7 @@ author_profile: true
 
   <img src="/images/iccais.jpg" style="display:inline-block; margin-right:5px; height:350px; max-height: 100%;" />
 
-* <span style="font-size: 20px;">10/2023: *Graduated from HUST and received the Best Undergraduate Graduation Thesis Award.* **Hanoi, Vietnam**.</span>  
+* <span style="font-size: 20px;">10/2023: *Graduated from HUST with the support of my family.* **Hanoi, Vietnam**.</span>  
 
   <img src="/images/graduate.jpg" style="display:inline-block; margin-right:5px; height:350px; max-height: 100%;" />
 
