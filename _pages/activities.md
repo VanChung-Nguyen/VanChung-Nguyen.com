@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 ------
-* <span style="font-size: 20px;">11/2023: *Attending at the VCCA conference.* **Haiphong, Vietnam**.</span>  
+* <span style="font-size: 20px;">5/2024: *Attending at the VCCA conference.* **Haiphong, Vietnam**.</span>  
 
   <img src="/images/vcca2024.jpg" style="display:inline-block; margin-right:5px; height:350px; max-height: 100%;" />
 
