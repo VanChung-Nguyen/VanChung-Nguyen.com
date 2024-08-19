@@ -16,7 +16,7 @@ Activity Highlights
 
 * <span style="font-size: 20px;">10/2023: *Graduated from HUST and received the Best Undergraduate Graduation Thesis Award.* **Hanoi, Vietnam**.</span>  
 
-  <img src="/images/iccais.jpg" style="display:inline-block; margin-right:5px; height:350px; max-height: 100%;" />
+  <img src="/images/graduate.jpg" style="display:inline-block; margin-right:5px; height:350px; max-height: 100%;" />
 
 
 
