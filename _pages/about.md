@@ -17,5 +17,3 @@ Research Interests
 * **Nonlinear Robust Control:** Focusing on the stability and robustness of control systems, particularly in nonlinear environments, to maintain performance despite uncertainties and disturbances.
 * **Inspection robots:** Innovating in the design and implementation of inspection robots, with a particular emphasis on the Cube-drone, to perform complex inspection tasks in challenging environments.  
 
-Awards
-------
